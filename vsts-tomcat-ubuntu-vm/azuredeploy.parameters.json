@@ -3,22 +3,22 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "adminUsername": {
-      "value": "GEN-USER"
+      "value": "kirtiazad1234"
     },
     "adminPassword": {
-      "value": "GEN-PASSWORD"
+      "value": "Infy@gmail"
     },
     "dnsLabelPrefix": {
       "value": "default"
     },
     "tomcatUserName": {
-      "value": "GEN-USER"
+      "value": "kirtiazad1234"
     },
     "tomcatPassword": {
-      "value": "GEN-PASSWORD"
+      "value": "kirtiazad1234"
     },
     "sshPassPhrase": {
-      "value": "GEN-UNIQUE"
+      "value": "1234"
     }
   }
 }
